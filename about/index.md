@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Chris Choy
+tags: [about, contact]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -10,16 +10,16 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I am a Senior Computational Scientist at Clustertech, a Hong Kong company offering advanced computation solutions.  My work is all about data: data cleansing, modelling and visualization.  People often called my job a Data scientist.  However, I consider myself a [data janitor](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0) and a data philosopher. 
 
-## Minimal Mistakes is all about:
+> "Science is what you know, philosophy is what you don't know."
+> Bertrand Russell
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+## Related experience
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Deployed a customer segmentation system for a retail bank in China
+* Proposed automatic time alignment algorithms for time series data from Environment Protection Department
+* Taught Data mining classes in University
+* Maintained a website with 600K pageviews per month in my free time
+
+

@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Chris Choy
 locale:           en_US
 url:              
 
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Chris Choy
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  bio: "Data Janitor and Data Philosopher"
+  email: chris@chsquare.com
+  disqus-shortname: christlchoy
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics: UA-63076522-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: christlc
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
