@@ -10,7 +10,7 @@ date: 2015-05-17T20:32:38+08:00
 Shell command is very useful for initial exploratory analysis of data files. 
 A simple `head` would allow explore the content of a huge file and It is much faster than firing up an editor.  With so many different tools around for data analysis, I believed that command prompt one-liner could be one of the most understated tools.
 
-{% include _toc.html %}
+{% include toc %}
 
 
 ## Looking at the first/last lines of a file
