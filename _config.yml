@@ -5,18 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-<<<<<<< HEAD
-title:            Chris Choy
-locale:           en_US
-url:              
-=======
+
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Chris Choy"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Chris Choy"
+description              : "Personal notes."
+url                      : "http://www.chsquare.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -31,7 +27,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
->>>>>>> d285f9d7bde13a74a4128836c34152c631d2e087
 
 # SEO Related
 google_site_verification :
