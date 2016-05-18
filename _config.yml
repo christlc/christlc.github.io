@@ -5,15 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Chris Choy"
 title_separator          : "-"
 name                     : "Chris Choy"
 description              : "Personal notes."
-url                      : "http://www.chsquare.com"
-baseurl                  : "/"# the subpath of your site, e.g. "/blog"
+url                      : "http://www.chsquare.com"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -62,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chris Choy"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Data Janitor."
+  location         : "Hong Kong"
   email            :
   uri              :
   bitbucket        :
@@ -74,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : christlc
   google_plus      :
   keybase          :
   instagram        :
@@ -145,38 +144,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Site owner
-owner:
-  name: Chris Choy
-  avatar: bio-photo.jpg
-  bio: "Data Janitor and Data Philosopher"
-  email: chris@chsquare.com
-  disqus-shortname: christlchoy
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics: UA-63076522-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: christlc
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-
 
 # Outputting
 permalink: /:categories/:title/
@@ -237,4 +204,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
