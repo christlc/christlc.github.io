@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SSH Tunnel Note
 excerpt: "How to use SSH tunnel, some notes to myself."
 tags: [ssh, ssh tunnel, ipython notebook]

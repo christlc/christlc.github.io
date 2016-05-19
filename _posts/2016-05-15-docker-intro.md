@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My docker notes
 excerpt: ""
 tags: [docker, data exploration]

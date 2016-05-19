@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Working with compressed files in command line
 excerpt: "Gzip, tar for compressing files and show how to piping to other commands."
 tags: [command line, gzip, tar, data exploration]

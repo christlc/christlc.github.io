@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Shell command useful for data exploration
 excerpt: "Introduce head/tail, more, grep, cut, wc, sort, uniq for basic data exploration."
 tags: [command line, data exploration, encoding]
