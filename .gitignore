@@ -13,3 +13,5 @@ _asset_bundler_cache
 npm-debug.log*
 
 *.md~
+
+*.~mmistakes_gh-pages~
