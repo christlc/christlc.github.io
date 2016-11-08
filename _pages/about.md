@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About Chris Choy
 permalink: /about/
 tags: [about, contact]
