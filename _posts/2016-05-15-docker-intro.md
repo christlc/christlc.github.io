@@ -47,16 +47,14 @@ pip install docker-compose
 ## Docker compose
 You can install docker compose via 
 
-{% highlight bash%}
+{% highlight bash %}
 sudo apt-get install -y python-pip
 sudo pip install docker-compose
-{% highlight bash%}
+{% endhighlight %}
 
 
 
 # My docker recipes
-
-
 
 ## Netatalk
 To set up a Apple Time Machine:
