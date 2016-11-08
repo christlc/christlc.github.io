@@ -1,6 +1,5 @@
 ---
 title: My docker notes
-excerpt: ""
 tags:
   - code
   - docker
