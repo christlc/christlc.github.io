@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Chris Choy
+permalink: /about/
 tags: [about, contact]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -22,5 +23,3 @@ I am a Senior Computational Scientist at Clustertech, a Hong Kong company offeri
 * Proposed automatic time alignment algorithms for time series data from Environment Protection Department
 * Taught Data mining classes in University
 * Maintained a website with 600K pageviews per month in my free time
-
-
