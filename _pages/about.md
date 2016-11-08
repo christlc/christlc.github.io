@@ -11,6 +11,8 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include base_path %}
+
 I am a Senior Computational Scientist at Clustertech, a Hong Kong company offering advanced computation solutions.  My work is all about data: data cleansing, modelling and visualization.  People often called my job a Data scientist.  However, I consider myself a data janitor[^1] and a data philosopher. 
 
 [^1]:[New York Times:"Janitor work" is the main hurdle to insight.](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0)
