@@ -12,7 +12,7 @@ a linux machine.
 
 To auto-mount at boot, edit the entries in /etc/fstab.
 
-{% highlight %}
+{% highlight bash %}
 UUID=5dde4c32-35ca-4a4b-8a45-44a3da0a375e   /mnt/newred3t
 ext4    defaults    0       2
 {% endhighlight %}
@@ -25,7 +25,7 @@ ZFS will manage the mounting, and there's no need to play with this setting.
 
 Edit /etc/smartd.conf
 
-{% highlight %}
+{% highlight bash %}
 /dev/sda -a -o on -S on -s (S/../.././02|L/../../6/03) -m
 email@example.com -M exec /usr/share/smartmontools/smartd-runner
 {% endhighlight %}
